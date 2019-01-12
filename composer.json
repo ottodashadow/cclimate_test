@@ -1,0 +1,14 @@
+{
+  "name": "mmcgee/c-climate-test",
+  "description": "Testing Code Climate Integration",
+  "type": "project",
+  "require-dev": {
+    "phan/phan": "^1.2"
+  },
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Random\\": "lib"
+    }
+  }
+}
