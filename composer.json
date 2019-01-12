@@ -3,9 +3,8 @@
   "description": "Testing Code Climate Integration",
   "type": "project",
   "require-dev": {
-    "phan/phan": "^1.2"
+    "phan/phan": "1.1.2"
   },
-  "require": {},
   "autoload": {
     "psr-4": {
       "Random\\": "lib"
