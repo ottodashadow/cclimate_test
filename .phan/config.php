@@ -345,8 +345,7 @@ return [
     // Thus, both first-party and third-party code being used by
     // your application should be included in this list.
     'directory_list' => [
-        'lib',
-        'vendor/phan/phan/src/Phan',
+        'lib'
     ],
 
     // A list of individual files to include in analysis
