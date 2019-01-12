@@ -15,4 +15,11 @@ class Obj {
     public function shouldThrowPhanTypeMismatchReturn2() {
         return 'data';
     }
+
+    /**
+     * @return bool
+     */
+    public function shouldThrowPhanTypeMismatchReturn3() {
+        return 'data';
+    }
 }
