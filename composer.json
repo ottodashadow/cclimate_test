@@ -7,7 +7,10 @@
   },
   "autoload": {
     "psr-4": {
-      "Random\\": "lib"
+      "Random\\": "lib/Random/",
+      "PhpParser\\": "lib/PhpParser/",
+      "PHPCfg\\": "lib/PHPCfg/",
+      "phpDocumentor\\GraphViz\\": "lib/phpDocumentor/GraphViz/"
     }
   }
 }
